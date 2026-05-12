@@ -1,0 +1,26 @@
+~ Signature Nespresso Series ~
+[SN01] Espresso Royale | $4.99
+[SN02] Ristretto Intenso | $4.99
+[SN03] Roma Classic | $4.99
+
+~ Barista Creations ~
+[BC01] Caramel Cappuccino | $5.99
+[BC02] Hazelnut Mocha | $5.99
+[BC03] Dark Chocolate Latte | $5.99
+
+~ Ice Signature Series ~
+[IS01] Caramel Frappe | $5.99
+[IS02] Mocha Ice Blast | $4.99
+[IS03] Hazelnut Ice Cappuccino | $5.99
+
+{ LIMITED TIME ITEM <3 }
+
+< ARIH Dual Biotic Soda >
+
+[AR01] Apple Flare | $7.00
+[AR02] Berry Bliss | $7.00
+[AR03] Clear Lemon | $7.00
+[AR04] Red Ruby Galore | $7.00
+[AR05] Peach Mango Horizon | $7.00
+[AR06] Pineapple Drift | $7.00
+[AR07] Positive Orange | $7.00
